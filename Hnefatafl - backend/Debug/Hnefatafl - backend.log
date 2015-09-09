@@ -1,0 +1,18 @@
+﻿La génération a démarré 9/8/2015 11:56:55 PM.
+     1>Projet "C:\Users\Kevin\documents\visual studio 2013\Projects\Hnefatafl\Hnefatafl - backend\Hnefatafl - backend.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt B_Board.cpp B_Piece.cpp B_Tile.cpp
+         B_Tile.cpp
+         B_Piece.cpp
+         B_Board.cpp
+         Génération de code en cours...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Kevin\documents\visual studio 2013\Projects\Hnefatafl\Debug\Hnefatafl - backend.lib" /NOLOGO Debug\B_Board.obj
+         Debug\B_Piece.obj
+         Debug\B_Tile.obj
+         Hnefatafl - backend.vcxproj -> C:\Users\Kevin\documents\visual studio 2013\Projects\Hnefatafl\Debug\Hnefatafl - backend.lib
+     1>Génération du projet "C:\Users\Kevin\documents\visual studio 2013\Projects\Hnefatafl\Hnefatafl - backend\Hnefatafl - backend.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:02.57

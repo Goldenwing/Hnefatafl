@@ -1,0 +1,18 @@
+﻿La génération a démarré 9/8/2015 11:56:57 PM.
+     1>Projet "C:\Users\Kevin\documents\visual studio 2013\Projects\Hnefatafl\Hnefatafl - UI\Hnefatafl - UI.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Kevin\Documents\Visual Studio 2013\Projects\Hnefatafl\Hnefatafl - backend" /I"C:\Users\Kevin\Documents\Visual Studio 2013\Projects\Hnefatafl\SFML\include" /I"C:\Users\Kevin\Documents\Visual Studio 2013\Projects\Hnefatafl\TGUI\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp UI_Board.cpp
+         UI_Board.cpp
+     1>c:\users\kevin\documents\visual studio 2013\projects\hnefatafl\hnefatafl - ui\ui_board.cpp(138): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\kevin\documents\visual studio 2013\projects\hnefatafl\hnefatafl - ui\ui_board.cpp(264): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+         main.cpp
+         Génération de code en cours...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kevin\documents\visual studio 2013\Projects\Hnefatafl\Debug\Hnefatafl - UI.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Kevin\Documents\Visual Studio 2013\Projects\Hnefatafl\Hnefatafl - backend" /LIBPATH:"C:\Users\Kevin\Documents\Visual Studio 2013\Projects\Hnefatafl\TGUI\lib" /LIBPATH:"C:\Users\Kevin\Documents\Visual Studio 2013\Projects\Hnefatafl\SFML\lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-graphics-d.lib" "tgui-d.lib" "../Debug/Hnefatafl - backend.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Kevin\documents\visual studio 2013\Projects\Hnefatafl\Debug\Hnefatafl - UI.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kevin\documents\visual studio 2013\Projects\Hnefatafl\Debug\Hnefatafl - UI.lib" /MACHINE:X86 Debug\main.obj
+         Debug\UI_Board.obj
+         Hnefatafl - UI.vcxproj -> C:\Users\Kevin\documents\visual studio 2013\Projects\Hnefatafl\Debug\Hnefatafl - UI.exe
+     1>Génération du projet "C:\Users\Kevin\documents\visual studio 2013\Projects\Hnefatafl\Hnefatafl - UI\Hnefatafl - UI.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:03.33
